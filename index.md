@@ -1,6 +1,6 @@
-## Welcome to Tech Blog
+## Reference Book
 
 # Kotlin
 
-1. [Introduction](https://github.com/kalaiselvan369/blogs/intro)
+1. [Introduction](https://kalaiselvan369.github.io/blogs/intro)
 

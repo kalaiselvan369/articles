@@ -2,5 +2,5 @@
 
 # Kotlin
 
-1. [Introduction](https://kalaiselvan369.github.io/blogs/intro)
+1. [Introduction](https://kalaiselvan369.github.io/rb/intro)
 
